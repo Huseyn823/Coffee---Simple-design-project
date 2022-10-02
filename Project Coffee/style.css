@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Abyssinica+SIL&display=swap');
+body{
+    background-image: url(coffee.jpg);
+    text-align: center;
+    font-family: 'Abyssinica SIL', serif;
+}
+.container h1{
+    color: white;
+    letter-spacing: 5px;
+    font-size: 80px;
+    font-weight: bold;
+}
+.container p{
+    color: bisque;
+    font-size: 20px;
+}
+.container{
+    margin-top: 10%;
+}
+.list div{
+    margin-top: 90px;
+    width: 500px;
+    height: 300px;
+    background-color: rgba(78, 26, 26, 0.644);
+    display: inline-block;
+    margin-right: 30px;
+    
+}
+.list div h2{
+    color:whitesmoke
+}
+.list div p{
+    color: rgb(206, 185, 159);
+    padding-left: 30px;
+    padding-right: 30px;
+    font-weight: bold;
+}
